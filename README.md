@@ -4,6 +4,12 @@ Training curriculum.
 Work in progress.  
 Intended focus: how varying physical abilities, boat types, safety equipment and wind/sea states affect various safety considerations.
 
+## Getting started with this repository  
+
+### Cloning
+
+### Branching
+
 ## Visual impairment (VI)
 
 ### Visual impairment and man overboard practice drills (VI MOB)
