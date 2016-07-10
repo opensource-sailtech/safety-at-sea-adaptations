@@ -49,4 +49,4 @@ Intended focus: how varying physical abilities, boat types, safety equipment and
 6. main: prepare a gybe
 7. main: when gybe is about to happen, loudly announce "ready to gybe" then "here comes the boom" or similar play-by-play so others anticipate what is happening in the gype and keep themselves safe  
 7. jib: continuously share information about distance and course to MOB (e.g. MOB is at 9 o'clock and 3 boatlengths away)
-8. jib: on coming to w MOB 
+8. jib: while approaching MOB, give helm guidance on steering to port or starboard to avoid hitting MOB
