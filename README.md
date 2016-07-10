@@ -18,4 +18,4 @@ This repository will use branches for variations. On GitHub, see the branch drop
 
 At this early stage of writing we assume that most scenarios will have similar steps. The common elements among scenarios will ideally be easy to sync across the related branches.
 
-For example, the method for hoisting an able bodied sailor differs little from that for a visually impaired sailor, where hoisting a sailor who has no sensation in the legs may need more specific attention to protecting legs.
+For example, the method for hoisting an able bodied sailor from the water and onto a boat differs little from that for a visually impaired sailor. On the other hand, hoisting a sailor who has no sensation in the legs may need more specific attention to protecting legs.
