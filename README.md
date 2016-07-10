@@ -9,6 +9,7 @@ Intended focus: how varying physical abilities, boat types, safety equipment and
 ### Visual impairment and man overboard practice drills (VI MOB)
 
 #### Scenario  
+For this set of instructions, please assume the following:  
 - boat and crew setup is very typical of VI sailing (especially competitions)  
 - difficulty level: easiest; stress level of drill is lowest that is realistic  
 - sighted guide  
@@ -44,18 +45,18 @@ Intended focus: how varying physical abilities, boat types, safety equipment and
 2. helm: throw floatation in direction of yell  
 3. helm: hit MOB button on GPS  
 3. main: 
-  1. blow mainsheet and flog main sail
+  1. blow mainsheet and flog main sail  
   2. verbally check in that helm has successfully completed steps above  
 4. jib: 
-  1. point at person in water continuously throughout maneuver
-  2. through upcoming tack and gybe, leave jib trim as is
-    - the tack will invert the jib (as when heaving to) and the jib will push the bow down for a tighter turn
-    - the gybe will reintroduce flow
+  1. point at person in water continuously throughout maneuver  
+  2. through upcoming tack and gybe, leave jib trim as is  
+    - the tack will invert the jib (as when heaving to) and the jib will push the bow down for a tighter turn  
+    - the gybe will reintroduce flow  
   3. as possible without interrupting your close focus on MOB and your continuous pointing, prepare jibsheet for quick and complete release (e.g. minimize wraps on winch; confirm tail will run free)  
 5. helm: head up hard through a tack; hold turn to continue in a circle  
-6. main:
-  1. prepare a gybe
+6. main:  
+  1. prepare a gybe  
   2. when gybe is about to happen, loudly announce "ready to gybe" then "here comes the boom" or similar play-by-play so others anticipate what is happening in the gype and keep themselves safe  
-7. jib: 
-  1. continuously share information about distance and course to MOB (e.g. MOB is at 9 o'clock and 3 boatlengths away)
+7. jib:  
+  1. continuously share information about distance and course to MOB (e.g. MOB is at 9 o'clock and 3 boatlengths away)  
   2. while approaching MOB, give VI helm guidance on steering to port or starboard to  avoid hitting MOB while staying close
