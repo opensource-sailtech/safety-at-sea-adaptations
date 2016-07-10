@@ -12,7 +12,7 @@ In order to contribute your improvements to these documents, cloning this reposi
 
 ### Branching
 
-This repository will use branches for variations. On GitHub, see the branch dropdown menu near the top of the webpage to select different scenarios.
+This repository will use branches for variations. On GitHub, see the branch dropdown menu near the top of the webpage to select different scenarios. As an example of varying scenarios, the [VI branch provides a man overboard drill](https://github.com/opensource-sailtech/safety-at-sea-adaptations/blob/vi/man_overboard--mob.md) specific to helms with a visual impairment.
 
 #### Purpose of this branching strategy
 

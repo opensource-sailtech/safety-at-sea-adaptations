@@ -50,7 +50,7 @@ For this set of instructions, please assume the following:
 5. helm: head up hard through a tack; hold turn to continue in a circle  
 6. main:  
   1. prepare a gybe  
-  2. when gybe is about to happen, loudly announce "ready to gybe" then "here comes the boom" or similar play-by-play so others anticipate what is happening in the gype and keep themselves safe  
+  2. when gybe is about to happen, loudly announce "ready to gybe" then "here comes the boom" or similar play-by-play so others anticipate what is happening in the gybe and keep themselves safe  
 7. jib:  
   1. continuously share information about distance and course to MOB (e.g. MOB is at 9 o'clock and 3 boatlengths away)  
   2. while approaching MOB, give VI helm guidance on steering to port or starboard to  avoid hitting MOB while staying close
